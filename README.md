@@ -1,6 +1,6 @@
 # Cẩm nang Bỏ túi Luxembourg — TL;DR
 
-**Bản tóm tắt siêu ngắn cho người mới đến SnT / Luxembourg (2026)**
+**Bản tóm tắt siêu ngắn cho người mới đến Luxembourg (2026)**
 
 > Bản rút gọn của *Cẩm nang bắt đầu cho người mới đến Luxembourg*. Chỉ gồm thông tin thực tế cốt lõi + đường link tham khảo. Không chính thức — luôn kiểm tra lại tại nguồn.
 
