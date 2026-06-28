@@ -2,7 +2,7 @@
 
 **Bản tóm tắt siêu ngắn cho người mới đến SnT / Luxembourg (2026)**
 
-> Bản rút gọn của *Cẩm nang SnT Luxembourg*. Chỉ gồm thông tin thực tế cốt lõi + đường link tham khảo. Không chính thức — luôn kiểm tra lại tại nguồn.
+> Bản rút gọn của *Cẩm nang bắt đầu cho người mới đến Luxembourg*. Chỉ gồm thông tin thực tế cốt lõi + đường link tham khảo. Không chính thức — luôn kiểm tra lại tại nguồn.
 
 ---
 
@@ -82,7 +82,18 @@
 
 ---
 
-> **Cần chi tiết hơn?** Xem bản đầy đủ: *Cam_nang_SnT_Luxembourg_2026.md*.
-> Liên hệ Hội Nghiên cứu sinh SnT (SPA): <http://wwwen.uni.lu/snt/phd_student_association>
+## 🇻🇳 Hội đoàn người Việt ở Luxembourg
+
+Kết nối với cộng đồng người Việt sẽ giúp bạn hòa nhập nhanh hơn, tìm được hỗ trợ thực tế và mở rộng quan hệ nghề nghiệp. Cộng đồng người Việt tại Luxembourg hiện có khoảng 600 người và đang tăng lên.
+
+- **VietLux Network** — Mạng lưới cộng đồng người Việt tại Luxembourg. Là nơi chia sẻ thông tin, gắn kết cộng đồng và kết nối việc làm cho người Việt sinh sống tại Luxembourg. Phù hợp cho người mới đến muốn tìm hỗ trợ thực tế và làm quen với cộng đồng.
+
+- **ViLaB — Hội Trí thức Việt Nam tại Bỉ và Luxembourg** — Quy tụ chuyên gia, trí thức và nhà khoa học người Việt tại Bỉ, Luxembourg (và châu Âu). Thành lập tháng 3/2025, hơn 150 thành viên trong các lĩnh vực như chuyển đổi số & công nghệ cao, năng lượng tái tạo/hạt nhân & công nghệ xanh, y tế & công nghệ sinh học, giáo dục và hỗ trợ doanh nghiệp. Mục tiêu: trao đổi tri thức, hợp tác nghiên cứu, chuyển giao công nghệ và thúc đẩy giao lưu Việt Nam – EU. Rất phù hợp cho nghiên cứu sinh và chuyên gia tại SnT/Đại học Luxembourg.
+
+> *Mẹo: Tìm các hội đoàn trên qua Facebook, hoặc nhờ Đại sứ quán Việt Nam phụ trách khu vực giới thiệu để có thông tin liên hệ mới nhất.*
+
+---
+
+> **Cần chi tiết hơn?** Xem bản đầy đủ: [Cam_nang_SnT_Luxembourg_2026.md](https://github.com/drnguyen/Vietlux-Getstarted/blob/main/Cam_nang_SnT_Luxembourg_2026.md).
 >
 > *Tài liệu không chính thức · Cập nhật 2026 · Vui lòng kiểm tra lại qua guichet.public.lu và mobiliteit.lu*
