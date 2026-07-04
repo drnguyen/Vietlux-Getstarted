@@ -9,10 +9,12 @@
 ## ⭐ Việc cần làm ngay khi đến (theo thứ tự)
 
 1. **Khai báo cư trú** tại commune (xã/phường) trong vòng **3 ngày làm việc** sau khi đến.
-2. **Mở tài khoản ngân hàng** (BCEE/Spuerkeess hoặc BIL) — miễn phí cho nhân viên trường; mang hợp đồng lao động + giấy tờ tùy thân.
-3. **Tìm chỗ ở** — nộp đơn nhà ở sinh viên sớm, hoặc tìm trên thị trường tự do.
-4. **Lấy thẻ thuế (tax card)** nếu sống xuyên biên giới — nếu không sẽ bị đánh thuế mức cao nhất.
-5. **Đăng ký internet/điện** sau khi ký hợp đồng nhà.
+2. **Khám sức khoẻ** và các thủ tục để đăng ký thẻ cư trú (titre de séjour).
+3. **Mở tài khoản ngân hàng** (BCEE/Spuerkeess hoặc BIL) — miễn phí cho nhân viên trường; mang hợp đồng lao động + giấy tờ tùy thân.
+4. **Tìm chỗ ở** — nộp đơn nhà ở sinh viên sớm, hoặc tìm trên thị trường tự do. Lưu ý: tìm nhà thuê ở Luxembourg khá phức tạp và mất thời gian, quy trình nộp hồ sơ khá giống quá trình nộp hồ sơ xin việc.
+5. **Đăng ký thẻ bảo hiểm y tế** trên hệ thống CCSS <https://ccss.public.lu/en/commandes-certificats/particuliers/commande-carte.html/>. Lưu ý: thẻ sẽ được gửi về địa chỉ cư trú đăng ký trên hệ thống.
+6. **Lấy thẻ thuế (tax card)** nếu sống xuyên biên giới — nếu không sẽ bị đánh thuế mức cao nhất.
+7. **Đăng ký internet/điện** sau khi ký hợp đồng nhà.
 
 ---
 
